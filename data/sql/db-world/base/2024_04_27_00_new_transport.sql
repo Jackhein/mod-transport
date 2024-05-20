@@ -3,4 +3,4 @@ INSERT INTO `gameobject_template` (`entry`,`type`,`displayId`,`name`,`size`,`Dat
 VALUES ('401010', '15', '6637', 'Darkwaves', '1', '2000', '30', '1', '1', '0', '0', '0', '', '', '12340');
 
 INSERT INTO `transports` (`entry`, `name`)
-VALUES ('200000', 'Shadowprey, Desolace and Revanstuck, The Hinterlands (Boat, Horde ("Shadowstream")')
+VALUES ('401010', 'Shadowprey, Desolace and Revanstuck, The Hinterlands (Boat, Horde ("Shadowstream")')
